@@ -1,0 +1,9 @@
+{
+    "timer": 10,
+    "hints_enabled": true,
+    "mode": "PvE",
+    "bot_delay_ms": 500,
+    "bot_depth": 3,
+    "themes": ["Classic", "DarkWood", "Neo"],
+    "current_theme": "DarkWood"
+}
